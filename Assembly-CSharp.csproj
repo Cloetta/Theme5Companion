@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\MouseMove.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\DownloadedAssets\cave_troll\scripts\camera_follow.cs" />
+    <Compile Include="Assets\Scripts\CompanionFollowing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\DownloadedAssets\cave_troll\shaders\Standard Two Sided Soft Blend.shader" />
